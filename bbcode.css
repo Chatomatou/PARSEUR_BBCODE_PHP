@@ -1,0 +1,110 @@
+.bbcode-title
+{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    line-height: 1;
+}
+.bbcode-subtitle 
+{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1; 
+}
+p
+{
+    font-size: 1em;
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bbcode-link
+{
+    clear: both;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #46963a;
+}
+.bbcode-center
+{
+    text-align: center;
+}
+.bbcode-left
+{
+    text-align: left;
+}
+.bbcode-right
+{
+    text-align: right;
+}
+.bbcode-justify
+{
+    text-align: justify;
+}
+.bbcode-quote
+{
+  padding: 15px;
+  border-radius: 6px;
+  box-shadow: 0 0 5px #111;
+  background-color: #FFF;
+}
+.bbcode-code pre
+{
+    padding: 10px;
+    width: 800px;
+    background-color: rgb(51, 51, 51);
+    font-family: consolas, 'Courier New', Courier, monospace;
+    color: #ff8000;
+    overflow-x: scroll;
+}
+.bbcode-vsa-commentary 
+{
+    color: #57a64a;
+}
+.bbcode-vsa-preprocessor
+{
+    color: #bd63c5;  
+}
+.bbcode-vsa-header 
+{
+    color: #c34141;
+}
+.bbcode-vsa-keyword
+{
+    color: #569cd6;
+}
+.bbcode-vsa-number 
+{
+    color: #b5cea8;
+}
+.bbcode-vsa-specialchar
+{
+    color: #ddd;
+}
+.bbcode-vsa-gold
+{
+    color: gold;
+}
+.bbcode-output-code
+{
+    padding: 5px;
+    background-color: #333;
+    color: #ddd;
+    border-radius: 10px;
+}
+/* Barre du navigateur*/
+::-webkit-scrollbar {
+    width: 3px;
+}
+ 
+/* trackbar */
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+ 
+/* poigner */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: rgba(255, 123, 0, 0.8); 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+ 
