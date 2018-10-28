@@ -9,8 +9,11 @@ Pour pouvoir parvenir a faire un parseur de BBCODE, il a fallu utiliser les expr
 # Balise possible 
 
 [title][/title]
+
 [subtitle][/subtitle]
+
 [p][/p]
+
 [b][/b]
 [i][/i]
 [s][/s] 
